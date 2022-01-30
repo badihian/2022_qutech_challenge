@@ -1,9 +1,9 @@
 # Entangled-Guys
 IQuHack-2022 Qutech-QEC.
 
-Title: Preserving Entanglement Using Repetition Quantum Error Code
+# Title: Preserving Entanglement Using Repetition Quantum Error Code
 
-Memebers: Neel Kanth Kundu (HKUST), Parth Hemant Darekar (USC) , Neema Badihian (USC)
+Members: Neel Kanth Kundu (HKUST), Parth Hemant Darekar (USC) , Neema Badihian (USC)
 
 Aim: Preserve EPR correlations when one of the qubit is stored in a faulty quantum memory
 
