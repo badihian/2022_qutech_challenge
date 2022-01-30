@@ -45,7 +45,7 @@ References:
 [2] https://learn.qiskit.org/course/quantum-hardware/introduction-to-quantum-error-correction-via-the-repetition-code
 
 # Personal Experience
-1) Got to learn hand on Quantum Comuting using real Starmon-5 hardware
+1) Got to learn hands on Quantum Comuting using real Starmon-5 hardware
 2) Networking experience where we made connections with other quantum professionals
 3) Interactions with recruiters helped to know about the job opportunities and type of projects in different Quantum computing companies
 4) Had fun coming up with a specific problem and then coding it on real hardware
