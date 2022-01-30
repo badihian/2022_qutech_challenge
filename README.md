@@ -37,6 +37,7 @@ Results:
    QuTech Starmon-5 Result: ![image](https://user-images.githubusercontent.com/62837473/151701491-bfdb6133-ec8a-450f-adc8-dea132adcbbd.png)
    
 Conclusion: Repetition Code is able to preserve EPR correlations in a faulty memory
+
 Future Work: Implement Repetition QEC for both the EPR qubits that requires total 6 Physical Qubits
 
 References:
